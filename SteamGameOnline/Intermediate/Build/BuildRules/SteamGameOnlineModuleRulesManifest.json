@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\SteamGameOnline\\SteamGameOnline\\Source\\SteamGameOnline\\SteamGameOnline.Build.cs",
+		"D:\\GitHub\\SteamGameOnline\\SteamGameOnline\\Source\\SteamGameOnline.Target.cs",
+		"D:\\GitHub\\SteamGameOnline\\SteamGameOnline\\Source\\SteamGameOnlineEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

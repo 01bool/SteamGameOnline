@@ -1,0 +1,2 @@
+D:\GitHub\SteamGameOnline\SteamGameOnline\Intermediate\Build\Win64\UE4Editor\Development\SteamGameOnline\Definitions.SteamGameOnline.h
+d:\github\steamgameonline\steamgameonline\source\steamgameonline\SteamGameOnline.h

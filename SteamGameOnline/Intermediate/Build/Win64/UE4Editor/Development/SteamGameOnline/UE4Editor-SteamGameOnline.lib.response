@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SteamGameOnline.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GitHub\SteamGameOnline\SteamGameOnline\Intermediate\Build\Win64\SteamGameOnlineEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\GitHub\SteamGameOnline\SteamGameOnline\Intermediate\Build\Win64\UE4Editor\Development\SteamGameOnline\SteamGameOnline.cpp.obj"
+"D:\GitHub\SteamGameOnline\SteamGameOnline\Intermediate\Build\Win64\UE4Editor\Development\SteamGameOnline\SteamGameOnlineCharacter.cpp.obj"
+"D:\GitHub\SteamGameOnline\SteamGameOnline\Intermediate\Build\Win64\UE4Editor\Development\SteamGameOnline\SteamGameOnlineGameMode.cpp.obj"
+"D:\GitHub\SteamGameOnline\SteamGameOnline\Intermediate\Build\Win64\UE4Editor\Development\SteamGameOnline\SteamGameOnline.init.gen.cpp.obj"
+"D:\GitHub\SteamGameOnline\SteamGameOnline\Intermediate\Build\Win64\UE4Editor\Development\SteamGameOnline\SteamGameOnlineCharacter.gen.cpp.obj"
+"D:\GitHub\SteamGameOnline\SteamGameOnline\Intermediate\Build\Win64\UE4Editor\Development\SteamGameOnline\SteamGameOnlineGameMode.gen.cpp.obj"
+"D:\GitHub\SteamGameOnline\SteamGameOnline\Intermediate\Build\Win64\UE4Editor\Development\SteamGameOnline\Default.rc2.res"
+/OUT:"D:\GitHub\SteamGameOnline\SteamGameOnline\Intermediate\Build\Win64\UE4Editor\Development\SteamGameOnline\UE4Editor-SteamGameOnline.lib"

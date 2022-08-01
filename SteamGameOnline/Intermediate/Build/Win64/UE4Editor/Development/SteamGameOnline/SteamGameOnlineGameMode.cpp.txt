@@ -1,0 +1,15 @@
+D:\GitHub\SteamGameOnline\SteamGameOnline\Intermediate\Build\Win64\UE4Editor\Development\SteamGameOnline\Definitions.SteamGameOnline.h
+d:\github\steamgameonline\steamgameonline\source\steamgameonline\SteamGameOnlineGameMode.h
+E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\GitHub\SteamGameOnline\SteamGameOnline\Intermediate\Build\Win64\UE4Editor\Inc\SteamGameOnline\SteamGameOnlineGameMode.generated.h
+d:\github\steamgameonline\steamgameonline\source\steamgameonline\SteamGameOnlineCharacter.h
+E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+E:\Program Files (x86)\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\GitHub\SteamGameOnline\SteamGameOnline\Intermediate\Build\Win64\UE4Editor\Inc\SteamGameOnline\SteamGameOnlineCharacter.generated.h

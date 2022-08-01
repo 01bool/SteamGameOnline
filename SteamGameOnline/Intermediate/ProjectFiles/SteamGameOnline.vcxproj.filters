@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SteamGameOnline.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1F8FA603-87B5-4409-B8EE-BA85201CAEE8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SteamGameOnline.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SteamGameOnlineEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5B986934-E00D-46D1-A977-0FCEB4780EBA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SteamGameOnline">
+      <UniqueIdentifier>{486A8DF4-A1F0-4246-8CEF-8034F0DF808D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SteamGameOnline\SteamGameOnline.Build.cs">
+      <Filter>Source\SteamGameOnline</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SteamGameOnline\SteamGameOnline.cpp">
+      <Filter>Source\SteamGameOnline</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SteamGameOnline\SteamGameOnline.h">
+      <Filter>Source\SteamGameOnline</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SteamGameOnline\SteamGameOnlineCharacter.cpp">
+      <Filter>Source\SteamGameOnline</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SteamGameOnline\SteamGameOnlineCharacter.h">
+      <Filter>Source\SteamGameOnline</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SteamGameOnline\SteamGameOnlineGameMode.cpp">
+      <Filter>Source\SteamGameOnline</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SteamGameOnline\SteamGameOnlineGameMode.h">
+      <Filter>Source\SteamGameOnline</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
